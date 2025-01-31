@@ -7,4 +7,4 @@ I have my blogs and I want to make it cool.
 
 # My skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,github,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,php,laravel,cs,mysql,mongodb,github,vscode,dotnet,figma" /> <br /><br />
